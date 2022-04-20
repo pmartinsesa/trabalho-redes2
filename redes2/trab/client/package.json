@@ -2,17 +2,18 @@
   "name": "servers",
   "version": "1.0.0",
   "description": "",
-  "main": "cache.ts",
+  "main": "server1.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cache": "node cache.js"
+    "client":  "node client.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.26.1",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "wait-for-user-input": "^1.0.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.13",
