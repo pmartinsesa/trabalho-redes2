@@ -1,0 +1,31 @@
+Escolha a localização que deseja saber a temperatura:
+ (1) Atacama
+ (2) Antartida
+ (3) Saara 
+
+3
+A temperatura em SAARA é de 45.01°C.
+
+
+Escolha a localização que deseja saber a temperatura:
+ (1) Atacama
+ (2) Antartida
+ (3) Saara 
+
+3
+A temperatura em SAARA é de 45.01°C.
+
+
+Escolha a localização que deseja saber a temperatura:
+ (1) Atacama
+ (2) Antartida
+ (3) Saara 
+
+3
+A temperatura em SAARA é de 48.24°C.
+
+
+Escolha a localização que deseja saber a temperatura:
+ (1) Atacama
+ (2) Antartida
+ (3) Saara 

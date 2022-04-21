@@ -1,0 +1,13 @@
+Nova temperatura em SAARA é de: 45.01°C.
+
+
+ultima verificacao foi em 5 segundos
+
+A temperatura em SAARA se mantem em: 45.01°C.
+
+
+ultima verificacao foi em 88 segundos
+
+Expirou
+
+Nova temperatura em SAARA é de: 48.24°C.

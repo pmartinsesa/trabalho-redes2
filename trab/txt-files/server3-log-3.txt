@@ -1,0 +1,2 @@
+Minha temperatura atual é de: 45.01
+Minha temperatura atual é de: 48.24

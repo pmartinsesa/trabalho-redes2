@@ -1,0 +1,31 @@
+Escolha a localização que deseja saber a temperatura:
+ (1) Atacama
+ (2) Antartida
+ (3) Saara 
+
+2
+A temperatura em ANTARTIDA é de -50.25°C.
+
+
+Escolha a localização que deseja saber a temperatura:
+ (1) Atacama
+ (2) Antartida
+ (3) Saara 
+
+2
+A temperatura em ANTARTIDA é de -50.25°C.
+
+
+Escolha a localização que deseja saber a temperatura:
+ (1) Atacama
+ (2) Antartida
+ (3) Saara 
+
+2   
+A temperatura em ANTARTIDA é de -55.29°C.
+
+
+Escolha a localização que deseja saber a temperatura:
+ (1) Atacama
+ (2) Antartida
+ (3) Saara 

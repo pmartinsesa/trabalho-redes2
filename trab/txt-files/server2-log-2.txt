@@ -1,0 +1,2 @@
+Minha temperatura atual é de: -50.25
+Minha temperatura atual é de: -55.29
